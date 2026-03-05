@@ -1,0 +1,12 @@
+/*!
+ * TOAST UI Color Picker
+ * @version 2.2.7
+ * @author NHN FE Development Team <dl_javascript@nhn.com>
+ * @license MIT
+ */
+
+/*! For license information please see toastui-vue-image-editor.js.LICENSE.txt */
+
+/*! string-format-js - v0.1.6 - 2016-03-28 */
+
+// @license RGB <-> HSV conversion utilities based off of http://www.cs.rit.edu/~ncs/color/t_convert.html

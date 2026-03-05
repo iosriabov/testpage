@@ -1,0 +1,16 @@
+/*!
+ * @license MIT
+ * @name vlitejs
+ * @version 4.0.0
+ * @copyright 2021 Yoriiis aka Joris DANIEL
+ */
+
+/**
+ * @license MIT
+ * @name validateTarget
+ * @version 2.0.0
+ * @author: Yoriiis aka Joris DANIEL <joris.daniel@gmail.com>
+ * @description: Easily validate target of an HTML element especially during event delegation
+ * {@link https://github.com/yoriiis/validate-target}
+ * @copyright 2020 Joris DANIEL
+ **/
